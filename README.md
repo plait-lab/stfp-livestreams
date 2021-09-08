@@ -6,7 +6,7 @@ _How Statically-Typed Functional Programmers Write Code_.
 
 If you are interested in viewing any of the videos below but the link is no
 longer functioning, please
-[reach out to Justin Lubin via email](mailto://justinlubin@berkeley.edu)
+[reach out to Justin Lubin via email](mailto:justinlubin@berkeley.edu)
 for an archived copy. To respect the livestreamers' privacy and copyright, we
 do not plan to re-host these clips publicly.
 
