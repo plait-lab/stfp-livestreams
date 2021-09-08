@@ -1,7 +1,7 @@
 # Statically-Typed Functional Programming Livestreams
 
-This document contains links and more information about the livestreams used in
-the OOPSLA '21 publication
+This document contains links to the livestreams observed in the OOPSLA '21
+publication
 _How Statically-Typed Functional Programmers Write Code_.
 
 If you are interested in viewing any of the videos below but the link is no
