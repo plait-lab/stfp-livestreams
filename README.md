@@ -17,7 +17,7 @@ L1 | [Tsoding](https://www.twitch.tv/tsoding) | Video expired on Twitch
 L2 | [Aaron VonderHaar](https://www.youtube.com/user/gruen0) | https://www.youtube.com/watch?v=HuKh6B90lkE
 L3 | [chiroptical](https://www.twitch.tv/chiroptical) | Video expired on Twitch
 L4 | [cdaringe](https://www.twitch.tv/cdaringe) | Video expired on Twitch
-L5 | [Tritlo](https://www.twitch.tv/tritlo) | Video expired on Twitch
+L5 | [Tritlo](https://www.twitch.tv/tritlo) | https://www.youtube.com/watch?v=lfrk0wyZHvg
 L6 | [gillchristian](https://www.twitch.tv/gillchristian) | Video expired on Twitch
 L7 | [CmdrEllyll](https://www.twitch.tv/cmdrellyll) | Video expired on Twitch
 L8 | [cvlad fp](https://www.youtube.com/c/cvladfp) | https://www.youtube.com/watch?v=bYlQDvxlJZs
